@@ -4,4 +4,13 @@ This repository is the collection of those simple programs. which i did while le
 I am still exploring python language.
 
 ##  Resource of Learning:
-1 : https://data-flair.training/blogs/python-data-structures-tutorial/
+1 :[To Learn Basic of Python This is Blog](https://data-flair.training/blogs/python-data-structures-tutorial/)
+
+2 :[BEST RESOURCE FOR PYTHON Official WebSite](https://www.python.org/)
+
+### Library:
+1 :[Official Website Scipy Library ](https://www.scipy.org/) 
+
+2 :[Official Website matplotlib Library ](https://matplotlib.org/)
+
+3 :[Official Website Tkinter Library ](https://wiki.python.org/moin/TkInter)

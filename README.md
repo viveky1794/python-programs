@@ -8,6 +8,8 @@ I am still exploring python language.
 
 2 :[BEST RESOURCE FOR PYTHON Official WebSite](https://www.python.org/)
 
+3:[Projects](https://techvidvan.com/tutorials/project-in-python-typing-speed-test/)
+
 ### Library:
 1 :[Official Website Scipy Library ](https://www.scipy.org/) 
 

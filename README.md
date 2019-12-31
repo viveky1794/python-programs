@@ -10,7 +10,7 @@ I am still exploring python language.
 
 3:[Projects](https://techvidvan.com/tutorials/project-in-python-typing-speed-test/)
 
-4:[MicroSoftware](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+4:[MicroSoftware--Youtube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 ### Library:
 1 :[Official Website Scipy Library ](https://www.scipy.org/) 
@@ -47,8 +47,6 @@ I am still exploring python language.
 
 
 
-
-abc
 
             |
             !  
